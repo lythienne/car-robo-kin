@@ -1,5 +1,6 @@
-Hello robot car, please trace a path at 100 steps/sec where the steps are length 0.1
-(0.3, 0)
-spline [0.25, 0.55, 0.75, 1, 1.2, 1.4, 1.6, 1.8, 1.75] [0.9, 1.5, 1.65, 1.6, 1.5, 1.3, 1.1, 0.6, 0] (1.75, 0)
-
-* Didn't fully get path down last time I tried in class, the numbers here should work based on measurements but probably won't translate
+Hello robot car, please trace a path with arrows and tank turns at 5 steps/sec where the steps are length 0.1
+(0, 0)
+line (2, 0)
+clockwise semicircle (2, 2)
+line (0, 2)
+clockwise semicircle
