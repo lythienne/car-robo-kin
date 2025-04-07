@@ -1,6 +1,8 @@
-Hello robot car, please trace a path with arrows and tank turns at 5 steps/sec where the steps are length 0.1
+Hello robot car, please trace a path at 5 steps/sec where the steps are length 0.1
 (0, 0)
-line (2, 0)
-clockwise semicircle (2, 2)
 line (0, 2)
+clockwise semicircle (2, 2)
+line (2, 0)
 clockwise semicircle
+
+face_one_way
